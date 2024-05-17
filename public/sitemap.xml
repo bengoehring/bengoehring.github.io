@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pascalmichaillat.org/hugo-website/archive/</loc>
+    <loc>https://bengoehring.github.io/archive/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/</loc>
+    <loc>https://bengoehring.github.io/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/research/</loc>
+    <loc>https://bengoehring.github.io/research/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/</loc>
+    <loc>https://bengoehring.github.io/tags/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/teaching/</loc>
+    <loc>https://bengoehring.github.io/teaching/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/vitae/</loc>
+    <loc>https://bengoehring.github.io/vitae/</loc>
   </url>
 </urlset>
