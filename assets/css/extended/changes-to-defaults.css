@@ -1,0 +1,56 @@
+:root {
+    --theme: #000000;
+    --entry: #000000;
+    --primary: #000000;
+    --secondary: #000000;
+    --tertiary: #000000;
+    --content: #000000;
+    --hljs-bg: #000000;
+    --code-bg:#000000;
+    --border: #000000;
+}
+
+.dark {
+    --theme: #F2EBFC;
+    --entry: #000000;
+    --primary: #000000;
+    --secondary: #000000;
+    --tertiary: rgba(1, 1, 5, 0.32);
+    --content: #000000;
+    --hljs-bg: #2e2e33;
+    --code-bg: #F2EBFC;
+    --border: #000000;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet");
+
+body {
+  font-family: Baskerville;
+  color: black;
+}
+
+.profile img {
+    border-radius: 5%;
+    margin-left: auto; 
+    margin-right: auto;
+    display: block;
+}
+
+ul {
+ list-style: none;
+ list-style-position: outside;
+ padding-left: 5em;
+ text-indent: -10px;
+}
+
+
+.main .profile {
+    font-size: 3ex;
+}
+
+.profile .profile_inner h1 {
+    padding: 40px 0;
+    font-size: 30px;
+    /*text-align:center;
+}
+

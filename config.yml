@@ -1,5 +1,5 @@
 baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+title: Ben Goehring
 paginate: 20
 theme: PaperMod
 
@@ -11,29 +11,22 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
+        - name: Research
+          url: research/
           weight: 1 
-        - name: Papers
-          url: papers/
+        - name: Teaching
+          url: teaching/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Vitae
+          url: goehring-cv-new-format.pdf
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 5
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs.
-consequat."
-    author: Moritz-Maria von Igelfeld
+    description: ""
+    author: Ben Goehring
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: dark
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
@@ -51,47 +44,28 @@ consequat."
     UseHugoToc: true
     comments: false
     math: true
+    body_classes: "baskerville"
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "Wilkommen! I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses specifically on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dr Dr Dieter Vogelsang, in Munich, Germany, and later a doctoral student (second assistant) of Professor Walter Schoeffler-Henschell at the University of Wiesbaden, Germany."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
-          imageTitle: Moritz-Maria von Igelfeld
+          title: "Ben Goehring"
+          subtitle: "Hello! I am a PhD Candidate in political science and public policy at the University of Michigan. I am interested in bureaucracies, the presidency, and state politics. In my dissertation, I link personnel records of twenty U.S. states’ employees with voter registration files to document, for the first time, the partisan composition of U.S. state workforces. I utilize this data to examine whether removing civil service protections for government employees increases the likelihood of outpartisan bureaucrats losing their jobs. <br /><br />I graduated from George Washington University in 2017 with degrees in philosophy and political science. After college, I worked as a research assistant at the Urban Institute studying means-based social assistance programs."
+          imageUrl: "ben-goehring-3.jpg"
+          imageWidth: 250
+          imageHeight: 300
+          imageTitle: Ben Goehring
           buttons:
-            - name: Books
-              url: books/
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Research
+              url: research/
+            - name: Teaching
+              url: teaching/
+            - name: Vitae
+              url: goehring-cv-new-format.pdf
 
     socialIcons:
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: CV
-          url: cv.pdf
+          url: mailto:bengoehr@umich.edu
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://scholar.google.com/citations?user=08m0WM0AAAAJ&hl=en&oi=ao
 
     assets:
         disableHLJS: true
@@ -100,7 +74,7 @@ consequat."
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Ben Goehring"
       icon: favicon.ico
       iconHeight: 18
 
