@@ -13,3 +13,7 @@ title: "Teaching"
 ## Undergraduate Mentoring
 
 In 2022-2023, I supervised a lab of Undergraduate Research Opportunity Program (UROP) students. We used personnel records of correctional officers in Mississippi and Arkansas to examine descriptive representation in the carceral state. The students presented their work at a poster session at MPSA (poster available [here](../final-poster.pptx)). As part of the lab, I recorded a seven-part introductory series on working with data in R. The videos are available [here](https://www.youtube.com/channel/UCzl7s8AZ7kwTKY5BZklAiTw). 
+
+
+## Awards
+In 2023, I was awarded the university-wide Outstanding Research Mentor Award for my work with the UROP program at the University of Michigan. I have also received the John W. Kingdon Award for Outstanding Teaching from the Department of Political Science. 
