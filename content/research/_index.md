@@ -17,5 +17,5 @@ Science & Politics. 2024.
 
 * Theories and Evidence of Policy Significance (with Kenneth Lowande and Yuki Shiraito)
 
-* Oversight From Above or Below: Individual and Institutional Legislative Influence on Agencies (with Charles Shipan, Frederick Boehmke, and Tracee Saunders)
+* Oversight From Below and Above: Individual and Institutional Legislative Influence on Agencies (with Charles Shipan, Frederick Boehmke, and Tracee Saunders)
 
