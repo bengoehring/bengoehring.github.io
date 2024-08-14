@@ -14,6 +14,6 @@ Political Science_. Forthcoming. (with Kenneth Lowande)
 
 * [Partisan Departures from the Administrative States](../jmp.pdf)
 
-* [Oversight From Below and Above: Individual and Institutional Legislative Influence on Agencies](../bsgs-anonymous.pdf) (with Charles Shipan, Frederick Boehmke, and Tracee Saunders)
+* [Oversight From Below and Above: Individual and Institutional Legislative Influence on Agencies](../bsgs.pdf) (with Charles Shipan, Frederick Boehmke, and Tracee Saunders)
 
 * Theories and Evidence of Policy Significance (with Kenneth Lowande and Yuki Shiraito)
