@@ -11,26 +11,34 @@
 }
 
 .dark {
-    --theme: #F2EBFC;
-    --entry: #000000;
-    --primary: #000000;
-    --secondary: #000000;
-    --tertiary: rgba(1, 1, 5, 0.32);
-    --content: #000000;
-    --hljs-bg: #2e2e33;
-    --code-bg: #F2EBFC;
-    --border: #000000;
+  /*background color*/
+    --theme: #00274C;
+    --entry: #FFFFFF;
+    --primary: #FFCB05;
+    --secondary: #FFFFFF;
+    /*button color*/
+    --tertiary: #00274C;
+    --content: #FFFFFF;
+    --hljs-bg: #00274C;
+    /*bottom ribbon*/
+    --code-bg: #00274C;
+    --border: #00274C;
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet");
 
 body {
-  font-family: Baskerville;
-  color: black;
+  font-family: Lato;
+  font-size: .8em;
+  color: white;
+}
+
+a {
+  text-decoration: underline
 }
 
 .profile img {
-    border-radius: 5%;
+    border-radius: 2%;
     margin-left: auto; 
     margin-right: auto;
     display: block;
@@ -51,6 +59,7 @@ ul {
 .profile .profile_inner h1 {
     padding: 40px 0;
     font-size: 30px;
-    /*text-align:center;
+    /*text-align:center;*/
 }
+
 
