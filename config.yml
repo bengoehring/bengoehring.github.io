@@ -45,6 +45,7 @@ params:
     comments: false
     math: true
     body_classes: "Lato"
+    sharing_image: "favicon.ico" 
     profileMode:
           enabled: true
           title: "Hi! I'm Ben Goehring." #
