@@ -6,7 +6,7 @@ title: "Research"
 
 ## Publications
 * [Public Responses to Unilateral Policymaking,](../public-responses-to-unilateral-policymaking.pdf) _Journal of Experimental
-Political Science_. Forthcoming. (with Kenneth Lowande)
+Political Science_. 2024. (with Kenneth Lowande)
 
 * [Improving Content Analysis: Tools for Working with Undergraduate Research Assistants,](../improving-content-analysis-tools-for-working-with-undergraduate-research-assistants.pdf) _PS: Political Science & Politics_. 2024. 
 
