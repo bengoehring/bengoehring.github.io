@@ -13,7 +13,7 @@ Political Science_. 2024. (with Kenneth Lowande)
 ## Working Papers
 
 * [Partisan Departures from the Administrative States](../jmp.pdf)
-    * Co-recipient of 2024 SPSA Pi Sigma Alpha/Malsolm Jewell Best Student Paper Award
+    * Co-recipient of the 2024 SPSA Pi Sigma Alpha/Malsolm Jewell Best Student Paper Award
     
 * [Oversight From Below and Above: Individual and Institutional Legislative Influence on Agencies](../bsgs.pdf) (with Charles Shipan, Frederick Boehmke, and Tracee Saunders)
 
