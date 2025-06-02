@@ -12,17 +12,17 @@
 
 .dark {
   /*background color*/
-    --theme: #00274C;
+    --theme: #C8CBD2;
     --entry: #FFFFFF;
-    --primary: #FFCB05;
-    --secondary: #FFFFFF;
+    --primary: #232D4B;
+    --secondary: #232D4B;
     /*button color*/
-    --tertiary: #00274C;
-    --content: #FFFFFF;
-    --hljs-bg: #00274C;
+    --tertiary: #E57200;
+    --content: #232D4B;
+    --hljs-bg: #F9DCBF;
     /*bottom ribbon*/
-    --code-bg: #00274C;
-    --border: #00274C;
+    --code-bg: #C8CBD2;
+    --border: #C8CBD2;
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet");
@@ -30,7 +30,7 @@
 body {
   font-family: Lato;
   font-size: .8em;
-  color: white;
+  color: #232D4B;
 }
 
 a {
