@@ -18,7 +18,7 @@ menu:
           url: teaching/
           weight: 2
         - name: Vitae
-          url: goehring-cv-new-format.pdf
+          url: goehring-cv.pdf
           weight: 3
 
 params:
@@ -64,7 +64,7 @@ params:
             - name: Teaching
               url: teaching/
             - name: Vitae
-              url: goehring-cv-new-format.pdf
+              url: goehring-cv.pdf
 
     socialIcons:
         - name: Email
