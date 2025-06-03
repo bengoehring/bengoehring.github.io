@@ -78,8 +78,6 @@ params:
         hiddenInSingle: true
     label:
       text: "Ben Goehring"
-      #icon: favicon.ico
-      #iconHeight: 20
 
 markup:
     goldmark:
