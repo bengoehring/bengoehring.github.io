@@ -69,8 +69,8 @@ params:
           url: mailto:gde9rc@virginia.edu
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=08m0WM0AAAAJ&hl=en&oi=ao
-        - name: web of science
-          url: https://www.webofscience.com/wos/author/record/NLO-5450-2025
+        #- name: web of science
+        #  url: https://www.webofscience.com/wos/author/record/NLO-5450-2025
 
     assets:
         disableHLJS: true
