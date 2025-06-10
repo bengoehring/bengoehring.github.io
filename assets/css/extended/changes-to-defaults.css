@@ -63,5 +63,9 @@ ul {
 }
 
 
-
+.social-icons {
+  display: flex;
+  gap: 0.55rem; /* or whatever spacing you want between icons */
+  align-items: center;
+}
 
