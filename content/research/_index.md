@@ -16,7 +16,7 @@ Political Science_. 2025. (with Kenneth Lowande)
 
 * [Bureaucratic Departures After Civil Service Rollbacks](../publication_pdfs/service-first.pdf)
 
-%* [Excessive Heat and Correctional Officer Departures: Evidence from Texas](../publication_pdfs/texas_ac.pdf) (with Jacob Harris)
+[comment]: <> [Excessive Heat and Correctional Officer Departures: Evidence from Texas](../publication_pdfs/texas_ac.pdf) (with Jacob Harris)
     
 * [Oversight From Below and Above: Individual and Institutional Legislative Influence on Agencies](../publication_pdfs/bsgs.pdf) (with Charles Shipan, Frederick Boehmke, and Tracee Saunders) *R\&R at JLEO*
 
