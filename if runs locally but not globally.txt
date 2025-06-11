@@ -1,0 +1,1 @@
+remember to run hugo command before pushing. 

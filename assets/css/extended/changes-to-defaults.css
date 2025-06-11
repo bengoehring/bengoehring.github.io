@@ -12,17 +12,17 @@
 
 .dark {
   /*background color*/
-    --theme: #C8CBD2;
+    --theme: #F1F1EF;
     --entry: #FFFFFF;
     --primary: #232D4B;
     --secondary: #232D4B;
     /*button color*/
     --tertiary: #E57200;
     --content: #232D4B;
-    --hljs-bg: #F9DCBF;
+    --hljs-bg: #F1F1EF;
     /*bottom ribbon*/
-    --code-bg: #C8CBD2;
-    --border: #C8CBD2;
+    --code-bg: #F1F1EF;
+    --border: #F1F1EF;
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet");
