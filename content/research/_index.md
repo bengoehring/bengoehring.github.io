@@ -20,4 +20,4 @@ Political Science_. 2025. (with Kenneth Lowande)
 
 * [Learning About Presidential Power](../publication_pdfs/polsignif.pdf) (with Kenneth Lowande and Yuki Shiraito)
 
-* Excessive Heat and Correctional Officer Departures: Evidence from Texas (with Jacob Harris) 
+* [Excessive Heat and Correctional Officer Turnover: Evidence from Texas](../publication_pdfs/texas_ac.pdf) (with Jacob Harris) 
