@@ -1,1 +1,1 @@
-remember to run hugo command before pushing. b
+This should no longer be an issue. Using github actions, you do not need to run hugo first before pushing. 
