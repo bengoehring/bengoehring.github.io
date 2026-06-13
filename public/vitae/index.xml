@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>vitae on Ben Goehring</title>
-    <link>https://bengoehring.github.io/vitae/</link>
+    <link>http://localhost:1313/vitae/</link>
     <description>Recent content in vitae on Ben Goehring</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://bengoehring.github.io/vitae/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://localhost:1313/vitae/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

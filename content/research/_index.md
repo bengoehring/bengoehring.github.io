@@ -16,8 +16,8 @@ Political Science_. 2025. (with Kenneth Lowande)
 
 * [Partisan Departures from the Administrative States](../publication_pdfs/jmp.pdf)
 
-* [Bureaucratic Departures After Civil Service Rollbacks](../publication_pdfs/service-first.pdf)
+* [Bureaucratic Departures After Civil Service Rollbacks](../publication_pdfs/service-first.pdf) _Under Review_
 
 * [Learning About Presidential Power](../publication_pdfs/polsignif.pdf) (with Kenneth Lowande and Yuki Shiraito) R&R at _Political Behavior_
 
-* [Excessive Heat and Correctional Officer Turnover: Evidence from Texas](../publication_pdfs/texas_ac.pdf) (with Jacob Harris) (R&R at _Public Administration Review_
+* [Excessive Heat and Correctional Officer Turnover: Evidence from Texas](../publication_pdfs/texas_ac.pdf) (with Jacob Harris) R&R at _Public Administration Review_

@@ -2,7 +2,9 @@
 title: "Teaching"
 ---
 
+## University of Virginia 
 
+&#9758; Executive Power in State and Federal Government ([syllabus](../syllabus-4991.pdf))
 
 ## University of Michigan (Graduate Student Instructor)
 &#9758; Political Science Research Design, University of Michigan (Fall 2020, Spring 2021)
