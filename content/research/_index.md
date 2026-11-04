@@ -16,6 +16,10 @@ Political Science_. 2025. (with Kenneth Lowande)
 
 ## Working Papers
 
+* [Bureaucratic Departures After Civil Service Rollbacks](../publication_pdfs/service-first.pdf) _Under Review_
+
 * [Partisan Departures from the Administrative States](../publication_pdfs/jmp.pdf)
 
-* [Bureaucratic Departures After Civil Service Rollbacks](../publication_pdfs/service-first.pdf) _Under Review_
+* [Deaf Ears and Echo Chambers in Presidential News](../publication_pdfs/learning.pdf) (with Kenneth Lowande and Mario Villegas)
+
+* [Bureaucratic Influence](../publication_pdfs/emails.pdf) (with Adam Rauh)
