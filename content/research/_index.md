@@ -2,9 +2,9 @@
 title: "Research"
 ---
 
-
-
 ## Publications
+* [Learning About Presidential Power,](../publication_pdfs/polsignif.pdf) _Political Behavior_. Conditionally Accepted. (with Kenneth Lowande and Yuki Shiraito)  
+
 * [Excessive Heat and Correctional Officer Turnover: Evidence from Texas,](../publication_pdfs/texas_ac.pdf)  _Public Administration Review_. Forthcoming. (with Jacob Harris)
 
 * [Oversight From Below and Above: Individual and Institutional Legislative Influence on Agencies,](../publication_pdfs/bsgs.pdf) _Journal of Law, Economics, and Organization_. Forthcoming. (with Charles Shipan, Frederick Boehmke, and Tracee Saunders)
@@ -19,5 +19,3 @@ Political Science_. 2025. (with Kenneth Lowande)
 * [Partisan Departures from the Administrative States](../publication_pdfs/jmp.pdf)
 
 * [Bureaucratic Departures After Civil Service Rollbacks](../publication_pdfs/service-first.pdf) _Under Review_
-
-* [Learning About Presidential Power](../publication_pdfs/polsignif.pdf) (with Kenneth Lowande and Yuki Shiraito) R&R at _Political Behavior_
