@@ -3,7 +3,7 @@ title: "Research"
 ---
 
 ## Publications
-* [Learning About Presidential Power,](../publication_pdfs/polsignif.pdf) _Political Behavior_. Conditionally Accepted. (with Kenneth Lowande and Yuki Shiraito)  
+* [Learning About Presidential Power,](../publication_pdfs/polsignif.pdf) _Political Behavior_. Conditionally Accepted. (with Kenneth Lowande and Yuki Shiraito) [(replication)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TIAD0G) 
 
 * [Excessive Heat and Correctional Officer Turnover: Evidence from Texas,](../publication_pdfs/texas_ac.pdf)  _Public Administration Review_. Forthcoming. (with Jacob Harris) [(replication)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MEAJ7D)
 
