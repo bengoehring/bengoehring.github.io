@@ -16,7 +16,7 @@ Political Science_. 2025. (with Kenneth Lowande) [(replication)](https://dataver
 
 ## Working Papers
 
-* [Bureaucratic Departures After Civil Service Rollbacks](../publication_pdfs/service-first.pdf) _Under Review_
+* [Bureaucratic Departures After Civil Service Rollbacks](../publication_pdfs/service-first.pdf) (R&R at _Journal of Politics_)
 
 * [Partisan Departures from the Administrative States](../publication_pdfs/jmp.pdf)
 
