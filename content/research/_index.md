@@ -5,7 +5,7 @@ title: "Research"
 ## Publications
 * [Learning About Presidential Power,](../publication_pdfs/polsignif.pdf) _Political Behavior_. Forthcoming. (with Kenneth Lowande and Yuki Shiraito) [(replication)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TIAD0G) 
 
-* [Excessive Heat and Correctional Officer Turnover: Evidence from Texas,](../publication_pdfs/texas_ac.pdf)  _Public Administration Review_. 2026. (with Jacob Harris) [(replication)](https://doi.org/10.1111/puar.70233)
+* [Excessive Heat and Correctional Officer Turnover: Evidence from Texas,](https://doi.org/10.1111/puar.70233)  _Public Administration Review_. 2026. (with Jacob Harris) [(replication)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MEAJ7D)
 
 * [Oversight From Below and Above: Individual and Institutional Legislative Influence on Agencies,](../publication_pdfs/bsgs.pdf) _Journal of Law, Economics, and Organization_. Forthcoming. (with Charles Shipan, Frederick Boehmke, and Tracee Saunders) [(replication)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VV3NEN)
 
